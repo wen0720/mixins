@@ -1,0 +1,19 @@
+{
+  "name": "mixins",
+  "version": "1.0.0",
+  "description": "my mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wen0720/mixins.git"
+  },
+  "author": "tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wen0720/mixins/issues"
+  },
+  "homepage": "https://github.com/wen0720/mixins#readme"
+}
